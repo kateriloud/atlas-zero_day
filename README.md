@@ -1,2 +1,1 @@
-My first readme
-Read the fine print
+My first read me
